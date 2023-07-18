@@ -8,7 +8,7 @@ No caso deste projeto, como exemplo do sistema de monitoramento foi feito um [pr
 
 ## Funcionalidades
 - Visualização dos dados dos sensores de umidade disponíveis na Realtime Database, exibindo a média dos dados 
-- Edição do valor máximo de umidade, valor utilizado para emitir os alertas de deslizamento
+- Edição do valor máximo de umidade, utilizado para emitir os alertas de deslizamento
 - Cadastra o dispositivo e recebe notificações emitidas pelo Firebase Cloud Messaging (FCM), mesmo com o app fechado
 
 ## Screenshots
