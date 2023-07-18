@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "285592680512",
+    "firebase_url": "https://flutter-temperatura-arduino-default-rtdb.firebaseio.com",
+    "project_id": "flutter-temperatura-arduino",
+    "storage_bucket": "flutter-temperatura-arduino.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285592680512:android:28d584d68edbdc1d23c7a5",
+        "android_client_info": {
+          "package_name": "com.feliperibeiro.app.monitoramento_umidade"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "285592680512-5boqg5es3029g67ck3qs1ip6ak64e08m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBl5TymsKLfMySzBm1DB5ue_oA2KcsdMco"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "285592680512-5boqg5es3029g67ck3qs1ip6ak64e08m.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "285592680512-34h0mnddcdh6rbacuk2k671j6njtodqt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.feliperibeiro.app.monitoramentoUmidade"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285592680512:android:acaad51771c242a723c7a5",
+        "android_client_info": {
+          "package_name": "com.feliperibeiro.monitor_umidade"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "285592680512-5boqg5es3029g67ck3qs1ip6ak64e08m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBl5TymsKLfMySzBm1DB5ue_oA2KcsdMco"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "285592680512-5boqg5es3029g67ck3qs1ip6ak64e08m.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "285592680512-34h0mnddcdh6rbacuk2k671j6njtodqt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.feliperibeiro.app.monitoramentoUmidade"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
